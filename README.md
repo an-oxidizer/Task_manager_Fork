@@ -82,3 +82,8 @@ ___ну или если нормально объяснять___
 
 [И так, эта ссылка точно не рикролл](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1 "Не, ну прям точно точно")
 
+### Ладно, отойдём от рикроллов
+
+Это фотокарточка нажимается и ведёт на интересный сайт
+[![Эта картинка рикролл](https://memi.klev.club/uploads/posts/2024-04/memi-klev-club-5t9u-p-memi-khochu-edems-s-negrom-6.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)
+
