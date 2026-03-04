@@ -85,5 +85,12 @@ ___ну или если нормально объяснять___
 ### Ладно, отойдём от рикроллов
 
 Это фотокарточка нажимается и ведёт на интересный сайт
-[![Эта картинка рикролл](https://memi.klev.club/uploads/posts/2024-04/memi-klev-club-5t9u-p-memi-khochu-edems-s-negrom-6.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)
+[![Эта картинка рикролл](https://memi.klev.club/uploads/posts/2024-04/memi-klev-club-5t9u-p-memi-khochu-edems-s-negrom-6.jpg "Кто это?
+Нажми и узнай")](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1)
 
+## Наши цели
+
++ [x] Добавить рикролл
+  - [ ] Словить кого-нибудь на рикролл
+* [ ] Закончить README.md
+* [ ] Скушать пончик
